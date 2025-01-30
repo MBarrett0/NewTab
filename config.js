@@ -94,7 +94,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'X',
-			icon: 'twitter',
+			icon: 'x',
 			link: 'https://twitter.com/',
 		},
 		{
@@ -105,20 +105,20 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'Drive',
+			icon: 'cloudy',
+			link: 'https://drive.google.com/drive/home',
 		},
 		{
 			id: '4',
 			name: 'Chatgpt',
-			icon: 'googles',
+			icon: 'bot',
 			link: 'https://chatgpt.com/',
 		},
 		{
 			id: '5',
 			name: 'Deepseek',
-			icon: 'googles',
+			icon: 'bot-message-square',
 			link: 'https://chat.deepseek.com/',
 		},
 		{
