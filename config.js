@@ -93,7 +93,7 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'twitter',
+			name: 'X',
 			icon: 'twitter',
 			link: 'https://twitter.com/',
 		},
@@ -112,13 +112,13 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Chatgpt',
-			icon: 'chatgpt',
+			icon: 'googles',
 			link: 'https://chatgpt.com/',
 		},
 		{
 			id: '5',
 			name: 'Deepseek',
-			icon: 'deepseek',
+			icon: 'googles',
 			link: 'https://chat.deepseek.com/',
 		},
 		{
