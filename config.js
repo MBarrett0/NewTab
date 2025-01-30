@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Reddit',
-			icon: 'reddit',
+			icon: 'computer',
 			link: 'https://reddit.com',
 
 		},
@@ -73,7 +73,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Spotify',
-			icon: 'spotify',
+			icon: 'speaker',
 			link: 'https://open.spotify.com',
 		},
 		{
@@ -111,9 +111,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Chatgpt',
-			icon: 'bot',
-			link: 'https://chatgpt.com/',
+			name: 'Figma',
+			icon: 'figma',
+			link: 'https://figma.com/',
 		},
 		{
 			id: '5',
@@ -123,9 +123,10 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'Chatgpt',
+			icon: 'bot',
+			link: 'https://chatgpt.com/',
+
 		},
 	],
 
