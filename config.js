@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Reddit',
-			icon: 'glasses',
+			icon: 'reddit',
 			link: 'https://reddit.com',
 
 		},
@@ -72,8 +72,8 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Music',
-			icon: 'headphones',
+			name: 'Spotify',
+			icon: 'spotify',
 			link: 'https://open.spotify.com',
 		},
 		{
@@ -111,15 +111,15 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+			name: 'Chatgpt',
+			icon: 'chatgpt',
+			link: 'https://chatgpt.com/',
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'Deepseek',
+			icon: 'deepseek',
+			link: 'https://chat.deepseek.com/',
 		},
 		{
 			id: '6',
